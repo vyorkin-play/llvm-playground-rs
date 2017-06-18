@@ -1,0 +1,9 @@
+[package]
+name = "llvm-playground-rs"
+version = "0.1.0"
+authors = ["Vasiliy Yorkin <vasiliy.yorkin@gmail.com>"]
+
+[dependencies]
+log = "0.3"
+cbox = "0.3"
+llvm-alt = "0.5"
